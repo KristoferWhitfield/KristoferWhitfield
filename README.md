@@ -1,3 +1,4 @@
+[img](https://raw.githubusercontent.com/KristoferWhitfield/KristoferWhitfield/main/re%20banner.jpg)
 <h1 align="center">Hi 👋, I'm Kristofer-Joseff Whitfield</h1>
 <h3 align="center">A ResilientCoder fullstack software engineer from Philadelphia, PA who enjoys working with my community members. Please feel free to reach me at any of my socials down below.</h3>
 
